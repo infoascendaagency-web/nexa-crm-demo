@@ -1,0 +1,133 @@
+{
+ "contacts": {
+  "hs_lead_status": {
+   "New": "#2F6FE4",
+   "Appointment Set": "#0E8FB3",
+   "Unreachable": "#64748B",
+   "Sale": "#2E9E4F",
+   "Follow-Up Needed": "#E8710A",
+   "Call later TODAY": "#C99700",
+   "Not Qualified": "#64748B",
+   "Bank Turned Down": "#D93636",
+   "Do Not Call": "#D93636",
+   "Research Pending": "#C99700",
+   "Duplicate": "#64748B",
+   "Out of Range": "#64748B",
+   "Other company sold": "#64748B",
+   "CLAIM": "#E8710A",
+   "B2B": "#8B4FD8",
+   "Re-Hash": "#4B4FD0",
+   "Hot Follow-Up": "#D93636",
+   "Recall - Short": "#0E8FB3",
+   "Recall - Long": "#2F6FE4",
+   "Future Buyer": "#7A9A12",
+   "No Answer - Active Recall": "#C99700",
+   "Switch Setter": "#4B4FD0",
+   "Appointment Cancelled": "#D93636",
+   "Appointment Ghosting": "#D6366F",
+   "Lost - Not Interested": "#64748B",
+   "Cold Recovery": "#0F9488",
+   "B2B - Reunion Agendada": "#8B4FD8",
+   "B2B - Aprobada": "#2E9E4F",
+   "B2B - Rechazado": "#D93636",
+   "B2B - Company": "#8B4FD8"
+  },
+  "lead_source": {
+   "Manual Setter": "#4B4FD0",
+   "Referral": "#2E9E4F",
+   "Digital Door Knocking": "#0E8FB3",
+   "Paid Ads": "#2F6FE4",
+   "Organic Website": "#0F9488",
+   "Other": "#64748B"
+  },
+  "lead_temperature": {
+   "Tier A": "#2E9E4F",
+   "Tier B": "#C99700",
+   "Tier C": "#64748B"
+  },
+  "prioridad_de_seguimiento": {
+   "baja": "#64748B",
+   "media": "#C99700",
+   "alta": "#D93636"
+  },
+  "lifecyclestage": {
+   "subscriber": "#2F6FE4",
+   "lead": "#0E8FB3",
+   "marketingqualifiedlead": "#0F9488",
+   "salesqualifiedlead": "#7A9A12",
+   "opportunity": "#E8710A",
+   "customer": "#2E9E4F",
+   "evangelist": "#8B4FD8",
+   "other": "#64748B"
+  },
+  "lead_language": {
+   "spanish": "#E8710A",
+   "english": "#2F6FE4"
+  },
+  "lead_intake_status": {
+   "Complete": "#2E9E4F",
+   "Incomplete": "#C99700",
+   "Manual Search Campaign": "#8B4FD8"
+  }
+ },
+ "appointments": {
+  "nx___appointment_confirmed_": {
+   "Confirmed": "#2E9E4F",
+   "Pending": "#C99700",
+   "Canceled": "#D93636",
+   "No-show": "#D6366F"
+  },
+  "nx___disposition__vendor_": {
+   "Won – Contract signed": "#2E9E4F",
+   "Pending – Estimate delivered": "#C99700",
+   "Pending – Financing in progress": "#C99700",
+   "Rescheduled": "#0E8FB3",
+   "Lost – Price too high": "#D93636",
+   "Lost – Chose competitor": "#D93636",
+   "Lost – Not qualified": "#64748B",
+   "Lost – No show": "#D6366F",
+   "Lost - Demo no sale": "#D93636",
+   "Lost – Bank Turned Down": "#D93636",
+   "Lost – One Leg": "#E8710A",
+   "Canceled by homeowner": "#64748B",
+   "Lost - Claim": "#E8710A",
+   "Pending - On Hold (7days)": "#C99700"
+  }
+ },
+ "tasks": {
+  "hs_task_status": {
+   "NOT_STARTED": "#64748B",
+   "IN_PROGRESS": "#2F6FE4",
+   "WAITING": "#C99700",
+   "DEFERRED": "#E8710A",
+   "COMPLETED": "#2E9E4F"
+  },
+  "hs_task_priority": {
+   "NONE": "#64748B",
+   "LOW": "#0E8FB3",
+   "MEDIUM": "#C99700",
+   "HIGH": "#D93636"
+  }
+ },
+ "tickets": {
+  "hs_ticket_priority": {
+   "LOW": "#0E8FB3",
+   "MEDIUM": "#C99700",
+   "HIGH": "#E8710A",
+   "URGENT": "#D93636"
+  }
+ },
+ "deals": {
+  "payment_status": {
+   "pending": "#C99700",
+   "paid": "#2E9E4F"
+  }
+ },
+ "companies": {
+  "b2b_eligibility_status": {
+   "Eligible": "#2E9E4F",
+   "Review": "#C99700",
+   "Rejected": "#D93636"
+  }
+ }
+}
